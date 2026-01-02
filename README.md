@@ -134,6 +134,11 @@ npm install
 
 ## Usage
 
+### Run the demo
+```bash
+npm run demo
+```
+
 ### Build the project
 ```bash
 npm run build
